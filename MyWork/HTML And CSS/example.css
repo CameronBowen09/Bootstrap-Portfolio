@@ -1,0 +1,17 @@
+a{
+    color: orange;
+  }
+  
+  h1 {
+    color: green;
+  }
+  
+  #myBtn{
+    color: red;
+    border-radius: 30px;
+    background-color: black;
+  }
+  
+  th{
+    color: blue; 
+  }
